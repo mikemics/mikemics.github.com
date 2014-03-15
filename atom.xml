@@ -4,12 +4,13 @@
   <title><![CDATA[mics Diary]]></title>
   <link href="http://mikemics.github.io/atom.xml" rel="self"/>
   <link href="http://mikemics.github.io/"/>
-  <updated>2014-03-16T05:38:48+09:00</updated>
+  <updated>2014-03-16T05:45:08+09:00</updated>
   <id>http://mikemics.github.io/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
