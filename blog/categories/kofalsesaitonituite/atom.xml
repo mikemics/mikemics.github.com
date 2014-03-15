@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Mics Diary]]></title>
-  <link href="http://mikemics.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: このサイトについて | Mics Diary]]></title>
+  <link href="http://mikemics.github.io/blog/categories/kofalsesaitonituite/atom.xml" rel="self"/>
   <link href="http://mikemics.github.io/"/>
   <updated>2014-03-16T08:09:53+09:00</updated>
   <id>http://mikemics.github.io/</id>
@@ -10,6 +10,7 @@
     <name><![CDATA[mike]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
@@ -24,17 +25,6 @@
 <h2>本当はこんなことしてる場合ではないですね？</h2>
 
 <p>死ぬほど眠いので寝ます。それでは</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hao]]></title>
-    <link href="http://mikemics.github.io/blog/2014/03/16/hao/"/>
-    <updated>2014-03-16T04:50:42+09:00</updated>
-    <id>http://mikemics.github.io/blog/2014/03/16/hao</id>
-    <content type="html"><![CDATA[<h2>もうだめだ</h2>
-
-<p>ねむい</p>
 ]]></content>
   </entry>
   
