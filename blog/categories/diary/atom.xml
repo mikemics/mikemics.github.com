@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: diary | Mics Diary]]></title>
-  <link href="http://mikemics.github.io/blog/categories/diary/atom.xml" rel="self"/>
-  <link href="http://mikemics.github.io/"/>
-  <updated>2014-03-16T08:09:53+09:00</updated>
-  <id>http://mikemics.github.io/</id>
+  <link href="http://mcmic.net/blog/categories/diary/atom.xml" rel="self"/>
+  <link href="http://mcmic.net/"/>
+  <updated>2014-03-16T20:18:45+09:00</updated>
+  <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hao]]></title>
-    <link href="http://mikemics.github.io/blog/2014/03/16/hao/"/>
+    <link href="http://mcmic.net/blog/2014/03/16/hao/"/>
     <updated>2014-03-16T04:50:42+09:00</updated>
-    <id>http://mikemics.github.io/blog/2014/03/16/hao</id>
+    <id>http://mcmic.net/blog/2014/03/16/hao</id>
     <content type="html"><![CDATA[<h2>もうだめだ</h2>
 
 <p>ねむい</p>

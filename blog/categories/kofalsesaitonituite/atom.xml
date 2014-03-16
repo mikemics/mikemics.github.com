@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: このサイトについて | Mics Diary]]></title>
-  <link href="http://mikemics.github.io/blog/categories/kofalsesaitonituite/atom.xml" rel="self"/>
-  <link href="http://mikemics.github.io/"/>
-  <updated>2014-03-16T08:09:53+09:00</updated>
-  <id>http://mikemics.github.io/</id>
+  <link href="http://mcmic.net/blog/categories/kofalsesaitonituite/atom.xml" rel="self"/>
+  <link href="http://mcmic.net/"/>
+  <updated>2014-03-16T20:18:45+09:00</updated>
+  <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[このサイトについて]]></title>
-    <link href="http://mikemics.github.io/blog/2014/03/16/a/"/>
+    <link href="http://mcmic.net/blog/2014/03/16/a/"/>
     <updated>2014-03-16T07:53:24+09:00</updated>
-    <id>http://mikemics.github.io/blog/2014/03/16/a</id>
+    <id>http://mcmic.net/blog/2014/03/16/a</id>
     <content type="html"><![CDATA[<h2>このサイトについて</h2>
 
 <p>このサイトはoctopressであれしています・・。内容は日記とかです。</p>

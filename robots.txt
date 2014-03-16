@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mikemics.github.io/sitemap.xml 
+Sitemap: http://mcmic.net/sitemap.xml 

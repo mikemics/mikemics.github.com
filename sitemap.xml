@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://mikemics.github.io/blog/2014/03/16/hao/</loc>
+        <loc>http://mcmic.net/blog/2014/03/16/hao/</loc>
         <lastmod>2014-03-16T06:19:48+09:00</lastmod>
     </url>
     <url>
-        <loc>http://mikemics.github.io/blog/2014/03/16/a/</loc>
+        <loc>http://mcmic.net/blog/2014/03/16/a/</loc>
         <lastmod>2014-03-16T08:09:31+09:00</lastmod>
     </url>
     <url>
-        <loc>http://mikemics.github.io/robots.txt</loc>
+        <loc>http://mcmic.net/robots.txt</loc>
         <lastmod>2014-03-16T06:19:48+09:00</lastmod>
     </url>
     <url>
-        <loc>http://mikemics.github.io/blog/archives/</loc>
+        <loc>http://mcmic.net/blog/archives/</loc>
         <lastmod>2014-03-16T08:09:31+09:00</lastmod>
     </url>
     <url>
-        <loc>http://mikemics.github.io/blog/categories/</loc>
+        <loc>http://mcmic.net/blog/categories/</loc>
         <lastmod>2014-03-16T06:19:48+09:00</lastmod>
     </url>
     <url>
-        <loc>http://mikemics.github.io/blog/</loc>
+        <loc>http://mcmic.net/blog/</loc>
         <lastmod>2014-03-16T08:09:31+09:00</lastmod>
     </url>
     <url>
-        <loc>http://mikemics.github.io/</loc>
+        <loc>http://mcmic.net/</loc>
         <lastmod>2014-03-16T08:09:31+09:00</lastmod>
     </url>
 </urlset>
