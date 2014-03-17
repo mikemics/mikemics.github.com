@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diary | Mics Diary]]></title>
   <link href="http://mcmic.net/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-16T21:29:48+09:00</updated>
+  <updated>2014-03-17T23:47:55+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日記]]></title>
+    <link href="http://mcmic.net/blog/2014/03/17/diary/"/>
+    <updated>2014-03-17T23:41:46+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/17/diary</id>
+    <content type="html"><![CDATA[<h2>今日の出来事</h2>
+
+<p>結局徹夜せずに寝て昼ごろに起きて作業場に行って開発するなどした。結果が出てよかったですね。</p>
+
+<h1>？</h1>
+
+<p>最近、鼻と喉の調子が悪いです。目はかゆくないので花粉症ではないと思いますが、なんか気温差でこうなることもあるらしいので気を付けます。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日記]]></title>
