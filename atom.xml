@@ -4,13 +4,24 @@
   <title><![CDATA[Mics Diary]]></title>
   <link href="http://mcmic.net/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-17T23:47:55+09:00</updated>
+  <updated>2014-03-18T23:40:38+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[誕生日]]></title>
+    <link href="http://mcmic.net/blog/2014/03/18/diary/"/>
+    <updated>2014-03-18T23:36:54+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/18/diary</id>
+    <content type="html"><![CDATA[<h2>今日の出来事</h2>
+
+<p>今日は朝書類を書いて提出してからは本当に何もしませんでした。ダメですね。誕生日でも特にこれといったアレは無かったです。ホントに今日何もしてないな・・・</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日記]]></title>
