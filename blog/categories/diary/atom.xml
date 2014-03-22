@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diary | Mics Diary]]></title>
   <link href="http://mcmic.net/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-21T20:15:05+09:00</updated>
+  <updated>2014-03-22T21:16:16+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[diary]]></title>
+    <link href="http://mcmic.net/blog/2014/03/22/diary/"/>
+    <updated>2014-03-22T21:13:38+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/22/diary</id>
+    <content type="html"><![CDATA[<h2>今日の出来事</h2>
+
+<p>つむつむ楽しすぎていかん・・・。</p>
+
+<h1>反省</h1>
+
+<p>やるべきことをやらずにつむつむをして人生積む積むとかだめですよ</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[遅れたけど日記]]></title>
@@ -60,17 +75,6 @@
 <p>久しぶりに犬の散歩をしました。やはり今の季節の景色が一番好きです。でもまだちょっと寒いので早くあったかくなってほしいです。このサイトを作る過程でやりたい事もみつかってしまったので、そこらへんと義務との両立をはかって行きたいです。とりあえず今日は徹夜して生活習慣を戻そうと思います（何か違う）。</p>
 
 <p>とりあえず今は義務が迫ってきているのでできれば明日中には作業を終わらせたいです。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hao]]></title>
-    <link href="http://mcmic.net/blog/2014/03/16/hao/"/>
-    <updated>2014-03-16T04:50:42+09:00</updated>
-    <id>http://mcmic.net/blog/2014/03/16/hao</id>
-    <content type="html"><![CDATA[<h2>もうだめだ</h2>
-
-<p>ねむい</p>
 ]]></content>
   </entry>
   
