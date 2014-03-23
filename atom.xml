@@ -4,13 +4,24 @@
   <title><![CDATA[Mics Diary]]></title>
   <link href="http://mcmic.net/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-22T21:16:16+09:00</updated>
+  <updated>2014-03-23T22:52:30+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日記]]></title>
+    <link href="http://mcmic.net/blog/2014/03/23/diary/"/>
+    <updated>2014-03-23T22:50:07+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/23/diary</id>
+    <content type="html"><![CDATA[<h2>今日の出来事</h2>
+
+<p>つむつむで友達とコミュニケーションをとるなどした。ペプシが1.5L120円だったので即買いした。そろそろ本気出す</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[diary]]></title>
