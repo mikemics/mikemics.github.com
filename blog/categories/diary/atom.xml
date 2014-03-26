@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diary | Mics Diary]]></title>
   <link href="http://mcmic.net/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-24T20:34:35+09:00</updated>
+  <updated>2014-03-27T02:09:58+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日記]]></title>
+    <link href="http://mcmic.net/blog/2014/03/27/diary/"/>
+    <updated>2014-03-27T02:02:44+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/27/diary</id>
+    <content type="html"><![CDATA[<h2>今日の出来事</h2>
+
+<p>携帯料金調べてた　いろいろ収穫あったけど契約終わるの11月だしなぜいま調べたのか謎。そのころにはNexus 5安くなってるといいなぁ・・・。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日記]]></title>
@@ -58,21 +69,6 @@
     <content type="html"><![CDATA[<h2>今日の出来事</h2>
 
 <p>今日は朝書類を書いて提出してからは本当に何もしませんでした。ダメですね。誕生日でも特にこれといったアレは無かったです。ホントに今日何もしてないな・・・</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[日記]]></title>
-    <link href="http://mcmic.net/blog/2014/03/17/diary/"/>
-    <updated>2014-03-17T23:41:46+09:00</updated>
-    <id>http://mcmic.net/blog/2014/03/17/diary</id>
-    <content type="html"><![CDATA[<h2>今日の出来事</h2>
-
-<p>結局徹夜せずに寝て昼ごろに起きて作業場に行って開発するなどした。結果が出てよかったですね。</p>
-
-<h1>？</h1>
-
-<p>最近、鼻と喉の調子が悪いです。目はかゆくないので花粉症ではないと思いますが、なんか気温差でこうなることもあるらしいので気を付けます。</p>
 ]]></content>
   </entry>
   
