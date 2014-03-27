@@ -4,13 +4,24 @@
   <title><![CDATA[Mics Diary]]></title>
   <link href="http://mcmic.net/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-27T02:09:58+09:00</updated>
+  <updated>2014-03-28T00:14:42+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日記]]></title>
+    <link href="http://mcmic.net/blog/2014/03/28/diary/"/>
+    <updated>2014-03-28T00:13:41+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/28/diary</id>
+    <content type="html"><![CDATA[<h2>無理</h2>
+
+<p>今から徹夜して生活リズム治す</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日記]]></title>
