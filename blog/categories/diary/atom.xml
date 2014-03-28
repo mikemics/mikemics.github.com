@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diary | Mics Diary]]></title>
   <link href="http://mcmic.net/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-03-28T00:14:42+09:00</updated>
+  <updated>2014-03-29T02:53:47+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日記]]></title>
+    <link href="http://mcmic.net/blog/2014/03/29/diary/"/>
+    <updated>2014-03-29T02:52:14+09:00</updated>
+    <id>http://mcmic.net/blog/2014/03/29/diary</id>
+    <content type="html"><![CDATA[<h2>う～ん</h2>
+
+<p>日課こなせてないのでちゃんとしましょう</p>
+
+<p>しかしねむい</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日記]]></title>
@@ -58,17 +71,6 @@
 <h1>反省</h1>
 
 <p>やるべきことをやらずにつむつむをして人生積む積むとかだめですよ</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[遅れたけど日記]]></title>
-    <link href="http://mcmic.net/blog/2014/03/20/diary/"/>
-    <updated>2014-03-20T00:22:29+09:00</updated>
-    <id>http://mcmic.net/blog/2014/03/20/diary</id>
-    <content type="html"><![CDATA[<h2>昨日の出来事</h2>
-
-<p>日付超えてしまった・・・なんもしてない・・・ちょっとはしたけど。もっとやる気出していきたいなぁ・・・。そんなところです。</p>
 ]]></content>
   </entry>
   
