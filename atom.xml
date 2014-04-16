@@ -4,13 +4,26 @@
   <title><![CDATA[Mics Diary]]></title>
   <link href="http://mcmic.net/atom.xml" rel="self"/>
   <link href="http://mcmic.net/"/>
-  <updated>2014-04-01T22:04:14+09:00</updated>
+  <updated>2014-04-16T21:06:07+09:00</updated>
   <id>http://mcmic.net/</id>
   <author>
     <name><![CDATA[mike]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[日記]]></title>
+    <link href="http://mcmic.net/blog/2014/04/16/diary/"/>
+    <updated>2014-04-16T21:03:08+09:00</updated>
+    <id>http://mcmic.net/blog/2014/04/16/diary</id>
+    <content type="html"><![CDATA[<h2>ひさしぶりです</h2>
+
+<p>前立腺ヤバい。まじでこれが原因だったら泣きまくる</p>
+
+<p>爽健美茶飲みます・・。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YO]]></title>
